@@ -1,0 +1,6 @@
+# PyCharm/JetBrains IDE
+.idea/
+
+# Python environment
+venv/
+__pycache__/
